@@ -6,7 +6,6 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Queue (next up first)
 
-- Best mechanical keyboards for the office UK
 - Best ergonomic mice UK
 - Best desk lamps for home offices UK
 - Best laptop stands UK
@@ -29,6 +28,7 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Done
 
+- Best mechanical keyboards for the office UK (2026-09-29)
 - Best office chairs UK (2026-09-28)
 - Best standing desks UK (2026-09-28)
 - Best monitor arms UK (2026-09-28)
