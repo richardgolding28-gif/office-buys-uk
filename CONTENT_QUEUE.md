@@ -6,7 +6,6 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Queue (next up first)
 
-- Best desk lamps for home offices UK
 - Best laptop stands UK
 - Best webcams for video calls UK
 - Best noise-cancelling headphones for WFH UK
@@ -27,6 +26,7 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Done
 
+- Best desk lamps for home offices UK (2026-10-01)
 - Best ergonomic mice UK (2026-09-30)
 - Best mechanical keyboards for the office UK (2026-09-29)
 - Best office chairs UK (2026-09-28)
