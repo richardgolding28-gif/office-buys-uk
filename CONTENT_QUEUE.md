@@ -6,7 +6,6 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Queue (next up first)
 
-- Best webcams for video calls UK
 - Best noise-cancelling headphones for WFH UK
 - Best under-desk footrests UK
 - Best desk mats UK
@@ -25,6 +24,7 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Done
 
+- Best webcams for video calls UK (2026-10-03)
 - Best laptop stands UK (2026-10-02)
 - Best desk lamps for home offices UK (2026-10-01)
 - Best ergonomic mice UK (2026-09-30)
