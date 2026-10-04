@@ -6,7 +6,6 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Queue (next up first)
 
-- Best noise-cancelling headphones for WFH UK
 - Best under-desk footrests UK
 - Best desk mats UK
 - Best filing cabinets and storage for home offices UK
@@ -24,6 +23,7 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Done
 
+- Best noise-cancelling headphones for WFH UK (2026-10-04)
 - Best webcams for video calls UK (2026-10-03)
 - Best laptop stands UK (2026-10-02)
 - Best desk lamps for home offices UK (2026-10-01)
